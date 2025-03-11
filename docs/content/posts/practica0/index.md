@@ -145,3 +145,7 @@ En esta practica se creo un repositorio espcialmente para esta materia donde se 
 [![Repositorio](./images/github.png)](https://github.com/Blu18/portafolio_paradigmas.git)
 
 ### Pagina estatica:
+Para esta parte se hicieron uso de los conocimientos de *Markdown* para realizar este reporte y **GitHub* para publicar una pagina estatica en nuestro repositorio mediante GitHub Actions para acceder a esta pagina se pueden ingresar a este enlace: [Ver. Paginas](https://github.com/Blu18/portafolio_paradigmas/actions "Ver. Paginas"). Dentro de este enlace se puede acceder a todoas las versiones del portafolio.
+
+# Conclusion:
+En esta práctica se adquirieron conocimientos fundamentales sobre Markdown, Git, GitHub y Hugo, herramientas esenciales para la documentación y publicación de contenido en la web. Se exploraron las diferentes sintaxis de Markdown para formatear texto, crear listas, insertar imágenes, enlaces, bloques de código y tablas, lo que facilita la estructuración de información de manera clara y organizada. Además, se reforzaron las bases del control de versiones con Git y GitHub, comprendiendo la importancia de gestionar cambios en proyectos, colaborar con otros desarrolladores y mantener un historial de versiones. La integración de GitHub Pages con Hugo permitió la generación y despliegue de una página estática, demostrando la utilidad de estas herramientas para la creación de sitios web eficientes y de fácil mantenimiento.
