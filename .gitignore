@@ -1,3 +1,7 @@
+.vscode/
 public/
 *.lock
+build/
 dist/
+library.txt
+members.txt
