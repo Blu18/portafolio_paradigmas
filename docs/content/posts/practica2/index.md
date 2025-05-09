@@ -1,7 +1,7 @@
 +++
-date = '2025-07-22'
+date = '2025-05-07'
 draft = false
-title = 'Practica 3: Paradigma Orientado a Objetos'
+title = 'Practica 2: Paradigma Orientado a Objetos'
 +++
 
 # Introducción
