@@ -5,7 +5,7 @@ title = 'Practica 3: Paradigma Orientado a Objetos'
 +++
 
 # Introducción
-En esta practica se explica un programa sobre la gestión de una biblioteca implementado en Python. El sistema se centra en los principios del paradigma de la Programación Orientada a Objetos (POO), estructurando el código en clases que representan las entidades del mundo real, como Libros, Miembros y la Biblioteca misma. Además, se explora la integración del sistema con una interfaz web utilizando el framework Flask.
+En esta practica se explica un programa sobre la gestión de una biblioteca implementado en Python. El sistema se centra en los principios del paradigma de la Programación Orientada a Objetos (POO), estructurando el código en clases que representan las entidades del mundo real, como libros, miembros y la biblioteca misma. Además, se explora la integración del sistema con una interfaz web utilizando el framework Flask.
 
 # Desarrollo
 
