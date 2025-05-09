@@ -6,6 +6,6 @@ theme = 'ananke'
 [params]
 text_color = "black"
 author = "Diego Manzo Escalante"
-site_logo = "/images/logo.png"
+site_logo = "static/images/logo.png"
 description = "Practicas Diego Manzo Escalante"
 background_color_class = "bg-dark-green"
